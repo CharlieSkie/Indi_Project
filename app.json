@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Boyles_C",
+    "slug": "Boyles_C",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ley.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/ley.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ley.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/ley.png"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
+  }
+}
