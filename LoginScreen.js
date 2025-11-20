@@ -253,7 +253,7 @@ const LoginScreen = ({ navigation }) => {
               <Text style={styles.modalText}>
                 Author: Charlie N. Boyles{"\n"}
                 Submitted To: Jay Ian Camelotes{"\n"}
-                Bio: Being a fool doesn’t mean you're useless; sometimes it's just your way of hiding who you really are.{"\n"}
+                Bio:Hell Im Charlie Boyles, Being a fool doesn’t mean you're useless; sometimes it's just your way of hiding who you really are.{"\n"}
                 Address: Cat Sur, Guindulman, Bohol
               </Text>
               <TouchableOpacity

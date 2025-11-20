@@ -20,13 +20,19 @@
         "foregroundImage": "./assets/ley.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.charlieskie.Boyles_C"
     },
     "web": {
       "favicon": "./assets/ley.png"
     },
     "plugins": [
       "expo-sqlite"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0e28e9ba-69cd-4331-a30e-206724be8b4a"
+      }
+    }
   }
 }
