@@ -156,7 +156,7 @@ const LoginScreen = ({ navigation }) => {
             </View>
 
             <View style={styles.loginContainer}>
-              <Image source={require("./assets/ley.png")} style={styles.logo} />
+              <Image source={require("./assets/ley.jpg")} style={styles.logo} />
               <Text style={styles.title}>Welcome Back</Text>
 
               <TextInput
@@ -249,7 +249,7 @@ const LoginScreen = ({ navigation }) => {
           <View style={styles.modalOverlay}>
             <View style={styles.modalContent}>
               <Text style={styles.modalTitle}>Information</Text>
-              <Image source={require("./assets/ley.png")} style={styles.modalImage} />
+              <Image source={require("./assets/ley.jpg")} style={styles.modalImage} />
               <Text style={styles.modalText}>
                 Author: Charlie N. Boyles{"\n"}
                 Submitted To: Jay Ian Camelotes{"\n"}

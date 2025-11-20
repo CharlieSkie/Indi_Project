@@ -4,11 +4,11 @@
     "slug": "Boyles_C",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/ley.png",
+    "icon": "./assets/ley.jpg",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/ley.png",
+      "image": "./assets/ley.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,14 +17,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/ley.png",
+        "foregroundImage": "./assets/ley.jpg",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
       "package": "com.charlieskie.Boyles_C"
     },
     "web": {
-      "favicon": "./assets/ley.png"
+      "favicon": "./assets/ley.jpg"
     },
     "plugins": [
       "expo-sqlite"
